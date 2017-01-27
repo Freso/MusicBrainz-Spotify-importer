@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# -*- coding: utf-8 -*-
+# vim:fileencoding=utf-8
 #
 # Copyright © 2016 Frederik “Freso” S. Olesen <https://freso.dk/>
 #
